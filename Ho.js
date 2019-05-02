@@ -1,0 +1,3 @@
+tien=()=>{
+    console.log('u');
+}
