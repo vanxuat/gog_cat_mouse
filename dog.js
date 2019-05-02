@@ -17,3 +17,8 @@ md=()=>{
 gh=()=>{
     console.log("tuye");
 }
+
+
+fg=()=>{
+    console.log("sds");
+}
